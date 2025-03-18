@@ -1,10 +1,10 @@
-number = "33"
+// number = "33"
 
-console.log(typeof(number));
+// console.log(typeof(number));
 
-let valueInNumber = Number(number);
+// let valueInNumber = Number(number);
 
-console.log(typeof(valueInNumber));
+// console.log(typeof(valueInNumber));
 
 // "33" => 33
 // "3ad" => NaN
@@ -12,11 +12,19 @@ console.log(typeof(valueInNumber));
 // undefined => NaN
 // null => 0
 
-let isLooggedIn = 1
-let booleanIsLoggedIn = Boolean(isLooggedIn)
+// let isLooggedIn = 1
+// let booleanIsLoggedIn = Boolean(isLooggedIn)
 
-console.log((booleanIsLoggedIn));
+// console.log((booleanIsLoggedIn));
 
 
 // "" =>false
 // "ranveer" => true
+
+
+// *****************Operation *****************
+
+let value= 3
+let negValue = -value
+// console.log(negValue);
+

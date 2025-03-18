@@ -11,3 +11,10 @@ accountCity = "Bengaluru"
 let accountState;
 
 console.table([accountId,accountEmail,accountPassword, accountCity, accountState]);
+
+
+// *****************Operation *****************
+
+let value= 3
+let negValue = -value
+console.log(negValue);
